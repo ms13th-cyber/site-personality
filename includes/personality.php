@@ -16,7 +16,7 @@ function spa_get_personality($score) {
 
     if ($score >= 50) return [
         'type' => '普通',
-        'emoji' => '🙂',
+        'emoji' => '😊',
         'message' => '悪くはないけど…ちょっと物足りないかも😏'
     ];
 

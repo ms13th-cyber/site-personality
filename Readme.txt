@@ -4,7 +4,7 @@ Tags: seo, analytics, dashboard, performance, content
 Requires at least: 5.0
 Tested up to: 6.9
 Requires PHP: 8.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -94,6 +94,10 @@ Site Personality Analyzer は、サイトの状態を分析し、
 3. 改善ポイント一覧
 
 == Changelog ==
+
+= 1.1 =
+
+* 一部テキスト修正
 
 = 1.0 =
 
