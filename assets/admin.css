@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+
+
+.spa-box {
+    max-width: 900px;
+    margin-top: 20px;
+}
+
+.spa-card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.spa-card:hover {
+    transform: translateY(-3px);
+}
+
+.spa-header {
+    font-size: 22px;
+    font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.spa-score {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.spa-comment {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+.spa-最強 { border-left: 6px solid #2ecc71; }
+.spa-優秀 { border-left: 6px solid #3498db; }
+.spa-普通 { border-left: 6px solid #f1c40f; }
+.spa-不調 { border-left: 6px solid #e67e22; }
+.spa-危険 { border-left: 6px solid #e74c3c; }
+
+.spa-google {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.spa-list li {
+    margin: 6px 0;
+}
